@@ -48,7 +48,6 @@ A focused, three-month immersion to take fellows from zero to **AI-productive**:
 ---
 
 ## Featured repositories
-> Replace links with your real repos. Keep it small and high-signal (like enterprise orgs do).
 
 <table>
   <tr>
