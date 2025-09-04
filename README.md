@@ -52,8 +52,8 @@ A focused, three-month immersion to take fellows from zero to **AI-productive**:
 <table>
   <tr>
     <td>
-      <b><a href="https://github.com/tesoroai/cold-email-workflow">Cold Email Workflow</a></b><br>
-      Automated cold outreach & response tracking in n8n (signed links, idempotent, Sheets/CRM).
+      <b><a href="https://github.com/Yanilsontesoroai/Main-Sales-Strategy-v2-Automated-B2B-Email-Outreach-n8n-">Main Sales Strategy v2 – Automated B2B Email Outreach (n8n)</a></b><br>
+      personalized recruitment emails based on live company insights and sends them via Gmail, while managing opt-in/out flows and tracking metadata through Google Sheets.
     </td>
   </tr>
   <tr>
