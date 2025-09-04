@@ -14,7 +14,7 @@ Empowering global innovators by connecting them with exceptional AI & software e
   <a href="https://tesoroai.com">Website</a> •
   <a href="https://podcasts.apple.com/us/podcast/the-tesoro-ai-podcast/id1527996104">Podcast</a> •
   <a href="https://www.linkedin.com/company/tesoro-ai/">LinkedIn</a> •
-  <a href="mailto:contact@tesoroai.com">Contact</a>
+  <a href="mailto:andrea@tesoroai.com">Contact</a>
 </p>
 
 ---
@@ -88,7 +88,7 @@ A focused, three-month immersion to take fellows from zero to **AI-productive**:
 
 ## Get in touch
 - **Website**: https://tesoroai.com  
-- **Email**: contact@tesoroai.com  
+- **Email**: andrea@tesoroai.com  
 - **LinkedIn**: https://www.linkedin.com/company/tesoro-ai/
 
 <hr>
